@@ -1,7 +1,7 @@
 # Sorts-Compare
 Analise sobre diferentes tecnicas de ordenação.
 
-Esse foi o primeiro exercicio da minha cadeira de Programação durante o terceiro semestre do curso Ciencias da Computação na UFC (Universidade Federal do Ceara).
+Esse foi o primeiro exercicio da minha cadeira de Programação durante o terceiro semestre do curso de Ciencias da Computação na UFC (Universidade Federal do Ceara).
 
 Analysis of different sorting techniques
 
